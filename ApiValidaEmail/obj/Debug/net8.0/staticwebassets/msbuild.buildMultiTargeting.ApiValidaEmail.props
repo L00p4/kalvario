@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ApiValidaEmail.props" />
+</Project>
